@@ -2,27 +2,22 @@
  "sections": [
   {
    "id": "f6fe7d52-51ea-83cf-1934-810fd4f94a91",
-   "title": "Turtle Syntax and Commands",
+   "title": "Processing Syntax & Set-up",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
     },
     {
-     "path": "TurtleGraphics.java",
-     "panel": 0,
-     "action": "open"
-    },
-    {
      "path": "#preview: https://{{domain3000}}/",
-     "panel": 1,
+     "panel": 0,
      "action": "open"
     }
    ],
-   "layout": "3-cell",
+   "layout": "2-panels",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Turtle-Syntax-and-Commands-f6fe.md",
+   "content-file": ".guides/content/Processing-Syntax---Set-up-f6fe.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,
@@ -30,18 +25,28 @@
    "learningObjectives": ""
   },
   {
-   "id": "e97a35d1-1ba4-b567-673e-77c51e8a37a2",
-   "title": "Create Additional Pages and Files",
+   "id": "951d3e99-71ec-7776-7fee-8549e3e7872a",
+   "title": "p5 Syntax & Set-up",
    "files": [
     {
      "path": "#tabs",
      "action": "close"
+    },
+    {
+     "path": "sketch.js",
+     "panel": 0,
+     "action": "open"
+    },
+    {
+     "path": "#preview: index.html",
+     "panel": 1,
+     "action": "open"
     }
    ],
-   "layout": "1-panel",
+   "layout": "3-columns",
    "path": [],
    "type": "markdown",
-   "content-file": ".guides/content/Create-Additional-Pages-and-Files-e97a.md",
+   "content-file": ".guides/content/p5-Syntax---Set-up-951d.md",
    "chapter": false,
    "reset": [],
    "teacherOnly": false,

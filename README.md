@@ -1,4 +1,4 @@
-# Hello Turtle in Java
+# Hello Processing/p5 in Codio
 
 This project shows you a sample lesson page in Codio and then explains how it was built. 
 
