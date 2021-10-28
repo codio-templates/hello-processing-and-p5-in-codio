@@ -7,7 +7,7 @@ Processing is a simplified java-based programming language development environme
 
 ### Processing Commands
 ---
-The first step is to create a background. Using `background()` indicate the color and be sure to indicate the `size()`. Run the following code in the file to the left:
+The first step is to create a background. Using `background()` indicate the color and be sure to indicate the `size()`. Type the following code in the file to the left. **Note**: The sample code below must be typed and cannot be copy/pasted directly.
 
 ```
 size(400, 400);
@@ -66,9 +66,10 @@ void setup() {
     stroke(255);
 } 
 void draw() {
-    line(150, 25, mouseX, mouseY);  
+    line(150, 25, mouseX, mouseY); 
+}
 void mousePressed() {
-    backgroun(192, 64, 0);
+    background(192, 64, 0);
 }
 ```
 
@@ -97,11 +98,11 @@ For a more complete list, [**click here.**](https://www.toptal.com/game/ultimate
 
 ## Setting up Processing in Codio
 
-Instruction through Codio is built around the guides feature. This is a brief description on how the demo on the previous page was built. Please see the [**documentation**](https://docs.codio.com/authoring.html) for more information about content authoring with guides.
+Instruction through Codio is built around the guide feature. This is a brief description of how the demo on the previous page was built. Please see the [**documentation**](https://docs.codio.com/authoring.html) for more information about content authoring with guides.
 
 ### Build on this Starter Pack
 ---
-Please note that there are softwares, files, scripts, etc. preconfigured in this **Hello Processing/p5 in Codio** Starter Pack that allow their use. Follow the directions below to build out this project with your own activities in processing.
+Please note that there are software, files, scripts, etc. preconfigured in this **Hello Processing/p5 in Codio** Starter Pack that allow their use. Follow the directions below to build out this project with your own activities in processing.
 
 
 Please note that this Starter Pack uses the Codio-Certified **Processing Language Stack.** 
