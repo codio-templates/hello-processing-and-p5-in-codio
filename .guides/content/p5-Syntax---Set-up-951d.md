@@ -184,7 +184,7 @@ Visit the [p5.js website Reference page](https://p5js.org/reference/) to view mo
 
 ## Setting up p5 in Codio
 ---
-Instruction through Codio is built around the guides feature. This is a brief description on how the demo on the previous page was built. Please see the [**documentation**](https://docs.codio.com/authoring.html) for more information about content authoring with guides.
+Instruction through Codio is built around the guide feature. This is a brief description on how the demo of the previous page was built. Please see the [**documentation**](https://docs.codio.com/authoring.html) for more information about content authoring with guides.
 
 ### Build on this Starter Pack
 ---
@@ -196,7 +196,7 @@ Follow the directions below to build out this project with your own activities i
 
 ### Files
 ---
-1. Please note that there are softwares, files, scripts, etc. preconfigured in this **Hello Processing/p5 in Codio** Starter Pack that allow their use.
+1. Please note that there are software, files, scripts, etc. preconfigured in this **Hello Processing/p5 in Codio** Starter Pack that allow their use.
 
 <table><tbody ><tr><td><details><summary>
 Collapse to view the contents of the existing <code>index.html</code> file. </summary><hr>
